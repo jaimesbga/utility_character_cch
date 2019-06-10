@@ -1,0 +1,16 @@
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Gabriel Bonilla\Desktop\Files Desktop\VS2012\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\PROYECTOS SOTF\VISUAL STUDIO\FontPP9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
